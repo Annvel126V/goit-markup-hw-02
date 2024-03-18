@@ -2,12 +2,12 @@ header {
     background-color: #FFFFFF;
     
   }
-  logo{
+  .header-logoo{
     background-color: #FFFFFF;
     color: #2e2f42;
 }
 .logo-web{
-color: #4d5ae5;
+    color: #4d5ae5;
 }
 .header-list{
     color: #9747FF;
