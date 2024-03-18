@@ -1,0 +1,12 @@
+header {
+    background-color: rgba(255, 255, 255, 1);
+    
+  }
+  logo{
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(46, 47, 66, 1);
+}
+.logo-web{
+color: rgba(77, 90, 229, 1);
+;
+}
