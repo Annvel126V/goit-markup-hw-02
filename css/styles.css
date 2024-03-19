@@ -1,0 +1,22 @@
+header{
+background-color: #fff;
+font-family: "Roboto", sans-serif;
+font-weight: 600;
+font-size: 40px;
+color: #2e2f42;
+}
+.header-logo{
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.nav-menu{
+ color: #2e2f42; 
+ width: 261px;
+ height: 24px; 
+
+}
