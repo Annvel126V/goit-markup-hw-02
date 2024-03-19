@@ -9,6 +9,7 @@ font-size: 40px;
 color: #2e2f42;
 }
 .header-logo{
+text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);       
 text-decoration: none;    
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -19,7 +20,6 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 .heder-logo-web{
-text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);   
 text-decoration: none;    
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -31,16 +31,15 @@ color: #d9d9d9;
 }
 .nav-menu{
 text-decoration: none; 
-list-style: none;  
 color: #2e2f42; 
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em; 
- 
-}
+ }
 .nav-menu-address{
-text-decoration: none;     
+text-decoration: none;
+list-style: none;       
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
