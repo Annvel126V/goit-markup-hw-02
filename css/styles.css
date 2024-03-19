@@ -19,6 +19,7 @@ text-transform: uppercase;
 color: #2e2f42;
 }
 .heder-logo-web{
+text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);   
 text-decoration: none;    
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -26,22 +27,20 @@ font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:  #d9d9d9; 
-text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+color: #d9d9d9; 
 }
 .nav-menu{
- color: #2e2f42; 
- font-weight: 500;
- font-size: 16px;
- line-height: 1.5;
- letter-spacing: 0.02em; 
- text-decoration: none;
- list-style: none;
+text-decoration: none; 
+list-style: none;  
+color: #2e2f42; 
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em; 
+ 
 }
 .nav-menu-address{
-text-decoration: none;
-list-style: none;   
-font-family: "Roboto", sans-serif;
+text-decoration: none;     
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -54,7 +53,6 @@ width: 1440px;
 height: 600px;  
 }
 .h1-tekst{
-font-family: "Roboto", sans-serif;    
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
