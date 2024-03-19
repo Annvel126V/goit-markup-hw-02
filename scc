@@ -1,4 +1,4 @@
-.page.header {
+.header {
     background-color: #FFFFFF;
     
   }
@@ -14,8 +14,15 @@
 
 }
 .heder-logo-web{
-    color: #4d5ae5;
+    font-family: raleway,sans-serif;
+    color: #4d5ae5; 
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21;
+    letter-spacing: 0.03em;
+    text-align: left;
+
 }
-.header-list{
+.nav-list{
     color: #9747FF;
 }
