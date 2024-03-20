@@ -26,8 +26,7 @@ font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #d9d9d9;
-text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25); 
+color: #4d5ae5;
 }
 a{
 text-decoration: none;    
@@ -69,4 +68,104 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff; 
+}
+.Options-list {
+list-style: none;       
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.options-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.our-team{
+width: 1440px;
+height: 732px;   
+background: #f4f4fd; 
+}
+.our-team-titel{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+.our-team-list {
+
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;    
+}
+.our-team-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;      
+}
+.our-team-img {
+list-style: none;
+width: 264px;
+height: 260px;
+}
+.our-portfolio{
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;    
+}
+.our-portfolio-img{
+list-style: none;
+width: 360px;
+height: 300px;    
+}
+.our-portfolio-list{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;    
+}
+.our-portfolio-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.footer{
+width: 1440px;
+height: 312px;
+background: #2e2f42;    
+}
+.footer-logo{
+font-family: "Raleway", sans-serif;   
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
+}
+.footerr-logo-web{
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;    
 }
