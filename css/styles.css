@@ -1,8 +1,8 @@
 body{
 background-color: #fff;
 font-family: "Roboto", sans-serif; 
-color: #2e2f42;
-}
+color: #434455;
+ }
 .header{
 
 color: #2e2f42;
@@ -12,12 +12,12 @@ text-decoration: none;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: #4d5ae5;
 }
-.heder-logo-web{
+.heder-logo-studio{
 text-decoration: none; 
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -25,7 +25,7 @@ font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: #2e2f42;
 }
 a{
 text-decoration: none;    
@@ -34,40 +34,63 @@ ul {
  list-style: none;
 }
 .nav-menu{
-list-style: none;      
 color: #2e2f42; 
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em; 
  }
+ .nav-menu :hover,
+ .nav-menu :focus{
+ color: #404bbf;
+ }
+ .address{
+font-style: normal
+ }
 .nav-menu-address{
-list-style: none;       
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.h1{
+.nav-menu-address :hover,
+.nav-menu-address :focus{
+color: #404bbf;    
+}
+
+.caption{
 background-color: #2e2f42; 
   
 }
-.h1-tekst{
+.caption-tekst{
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
+text-align: center;
 letter-spacing: 0.02em;
 color: #fff;
 }
 .button{
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #4d5ae5;  
+background: #4d5ae5;
+font-family: "Roboto", sans-serif;  
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff; 
+}
+.button :hover,
+.button :focus{
+ background-color: #404BBF;
+ cursor: pointer;    
+}
+.options{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;   
 }
 .Options-list {
 list-style: none;       
@@ -92,13 +115,14 @@ background: #f4f4fd;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
+text-align: center;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 color: #2e2f42;
 }
-.our-team-img {
-list-style: none;
-
-    }
+.our-team-card{
+background-color: #FFFFFF;   
+}
 .our-team-list {
 font-weight: 500;
 font-size: 20px;
@@ -118,7 +142,9 @@ color: #434455;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
+text-align: center;
 letter-spacing: 0.02em;
+text-transform: capitalize;
 color: #2e2f42;    
 }
 .our-portfolio-img{
@@ -147,19 +173,19 @@ background: #2e2f42;
 font-family: "Raleway", sans-serif;   
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color: #4d5ae5 ;
 }
-.footerr-logo-web{
+.footerr-logo-sudio{
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;    
+color: #f4f4fd;    
 }
 .footer-text{
 font-weight: 400;
