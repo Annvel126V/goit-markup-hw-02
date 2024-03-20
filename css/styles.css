@@ -52,8 +52,7 @@ color: #434455;
 }
 .h1{
 background-color: #2e2f42; 
-width: 1440px;
-height: 600px;  
+  
 }
 .h1-tekst{
 font-weight: 700;
@@ -87,8 +86,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .our-team{
-width: 1440px;
-height: 732px;   
+  
 background: #f4f4fd; 
 }
 .our-team-titel{
@@ -100,8 +98,7 @@ color: #2e2f42;
 }
 .our-team-img {
 list-style: none;
-width: 264px;
-height: 260px;
+
     }
 .our-team-list {
 font-weight: 500;
@@ -127,8 +124,7 @@ color: #2e2f42;
 }
 .our-portfolio-img{
 list-style: none;
-width: 360px;
-height: 300px;    
+   
 }
 .our-portfolio-list{
 font-weight: 500;
@@ -145,8 +141,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .footer{
-width: 1440px;
-height: 312px;
+
 background: #2e2f42;    
 }
 .footer-logo{
