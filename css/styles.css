@@ -57,7 +57,6 @@ font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
-text-align: center;
 color: #fff;
 }
 .button{
@@ -94,16 +93,13 @@ font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
-text-align: center;
 color: #2e2f42;
 }
 .our-team-list {
-
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-text-align: center;
 color: #2e2f42;    
 }
 .our-team-text {
@@ -111,7 +107,6 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-text-align: center;
 color: #434455;      
 }
 .our-team-img {
@@ -124,7 +119,6 @@ font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
-text-align: center;
 color: #2e2f42;    
 }
 .our-portfolio-img{
