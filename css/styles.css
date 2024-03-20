@@ -95,6 +95,11 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+.our-team-img {
+list-style: none;
+width: 264px;
+height: 260px;
+    }
 .our-team-list {
 font-weight: 500;
 font-size: 20px;
@@ -109,11 +114,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;      
 }
-.our-team-img {
-list-style: none;
-width: 264px;
-height: 260px;
-}
+
 .our-portfolio{
 font-weight: 700;
 font-size: 36px;
