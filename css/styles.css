@@ -39,8 +39,8 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em; 
  }
- .nav-menu :hover,
- .nav-menu :focus{
+ .nav-menu:hover,
+ .nav-menu:focus{
  color: #404bbf;
  }
  .address{
@@ -77,12 +77,12 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
+cursor: pointer; 
 color: #fff; 
 }
-.button :hover,
-.button :focus{
+.button:hover,
+.button:focus{
  background-color: #404BBF;
- cursor: pointer;    
 }
 .options{
 font-weight: 500;
